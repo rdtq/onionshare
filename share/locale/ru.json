@@ -167,6 +167,7 @@
     "receive_mode_received_file": "Получено: {}",
     "gui_mode_share_button": "Отправка файлов",
     "gui_mode_receive_button": "Получение файлов",
+    "gui_mode_website_button": "Опубликовать веб-сайт",
     "gui_settings_receiving_label": "Настройки получения",
     "gui_settings_public_mode_checkbox": "Публичный режим",
     "systray_close_server_title": "Сервер OnionShare отключен",
